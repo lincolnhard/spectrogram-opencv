@@ -15,7 +15,7 @@ make
 
 **Result**
 ```
-./spectrogram-opencv-file testsound/baby.wav 5 0.1 200
+./spectrogram-opencv-file testsound/baby.wav 12 0.1 100
 ```
 
-![spectro](https://user-images.githubusercontent.com/16308037/45088367-55794d80-b13b-11e8-8f01-72e7f4a0b696.gif)
+![sspp](https://user-images.githubusercontent.com/16308037/45131120-20faa580-b1be-11e8-89e8-07c14e16d6e4.gif)
